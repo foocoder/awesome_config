@@ -95,7 +95,7 @@ tags[1][4].name = "4.Matlab"
 tags[1][5].name = "5.VLCPlayer"
 tags[1][6].name = "6.Word"
 tags[1][7].name = "7.PPT"
-tags[1][8].name = "8.EXCELL"
+tags[1][8].name = "8.EXCEL"
 tags[1][9].name = "9.Music"
 -- {{{ Menu
 -- Create a laucher widget and a main menu
