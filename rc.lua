@@ -40,7 +40,7 @@ end
 -- {{{ Variable definitions
 -- Themes define colours, icons, font and wallpapers.
 -- beautiful.init("/usr/local/share/awesome/themes/default/theme.lua")
-beautiful.init("/home/yeoman123/.config/awesome/themes/vinyl/theme.lua")
+beautiful.init("/home/yeoman123/.config/awesome/themes/wombat/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "xfce4-terminal"
